@@ -1,0 +1,12 @@
+C:\Codigo\C#\TipoParcial\CRUD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Codigo\C#\TipoParcial\CRUD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Codigo\C#\TipoParcial\CRUD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Codigo\C#\TipoParcial\CRUD\WindowsFormsApp1\obj\Debug\Aviones.csproj.AssemblyReference.cache
+C:\Codigo\C#\TipoParcial\CRUD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Codigo\C#\TipoParcial\CRUD\WindowsFormsApp1\obj\Debug\Aviones.csproj.GenerateResource.cache
+C:\Codigo\C#\TipoParcial\CRUD\WindowsFormsApp1\obj\Debug\Aviones.csproj.CoreCompileInputs.cache
+C:\Codigo\C#\TipoParcial\CRUD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Codigo\C#\TipoParcial\CRUD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Codigo\C#\TipoParcial\CRUD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Codigo\C#\TipoParcial\CRUD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresentacionAviones.resources
+C:\Codigo\C#\TipoParcial\CRUD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sorpresa.resources
